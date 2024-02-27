@@ -1,0 +1,7 @@
+Gaurav Rajendra Panse
+Exploratory Data Analysis
+a) Learnt about Univariate Analysis
+b) Learnt about Bivariate Analysis
+c) Learnt about Derived Metrics
+
+
